@@ -5,6 +5,7 @@ You are working for a new-age insurance company and employ multiple outreach pla
 required to build a ML model that will predict if a client will subscribe to the insurance.
 
 Features:
+
 ● age (numeric)
 
 ● job : type of job
